@@ -1,0 +1,9 @@
+.prod {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.prod-details {
+    margin-left: 50px;
+}
